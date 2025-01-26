@@ -1,0 +1,22 @@
+.h {
+    background-color: aqua;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    text-align: center;
+    margin-bottom: 40px;
+    
+    color: aqua;
+}
+
+button {
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
