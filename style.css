@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(236, 227, 227);
+    border-color: 70px solid  aqua;
 }
 
 div {
@@ -15,7 +16,7 @@ div {
 }
 
 button {
-    background-color: blueviolet;
+    background-color: rgb(43, 198, 226);
     color: aliceblue;
     padding: 10px 50px;
     border-radius: 10px;
