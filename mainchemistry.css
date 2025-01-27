@@ -1,0 +1,15 @@
+button {
+    background-color: aqua;
+    
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}

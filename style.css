@@ -6,6 +6,7 @@
 body {
     background-color: rgb(236, 227, 227);
     border-color: 70px solid  aqua;
+    border-radius: 20px;
 }
 
 div {
